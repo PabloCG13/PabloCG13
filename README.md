@@ -18,7 +18,7 @@
 
 ### **Contact Me**  
 * ✉️ **Email:** [pcgomez2003@gmail.com](mailto:pcgomez2003@gmail.com)  
-* 💼 **LinkedIn:** [linkedin.com/in/Pablo-Chicharro-Gómez](https://www.linkedin.com/public-profile/settings)  
+* 💼 **LinkedIn:** [linkedin.com/in/Pablo-Chicharro-Gómez](https://www.linkedin.com/in/pablo-chicharro-g%C3%B3mez/)  
 
 ---
 
