@@ -42,8 +42,5 @@
 #### **Most Used Languages**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCG13&layout=compact&theme=radical)
 
-#### **GitHub Streak**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PabloCg13)](https://git.io/streak-stats)
-
 #### **GitHub Stats Card**  
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloCG13&show_icons=true&theme=radical)
